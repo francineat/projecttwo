@@ -1,0 +1,42 @@
+/* All CSS styles go here */
+
+body {
+	height: 1200px;
+}
+
+#square {
+	width: 125px;
+	height: 125px;
+	background-color: gold;
+	margin-top: 550px;
+	margin-left: 200px;
+	position: absolute;
+}
+
+#circle {
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	background-color: crimson;
+	margin-top: 100px;
+	margin-left: 560px;
+	position: absolute;
+}
+
+#squaretwo {
+	width: 90px;
+	height: 90px;
+	background-color: yellowgreen;
+	margin-top: 400px;
+	margin-left: 1000px;
+	position: absolute;
+}
+
+.box {
+	width: 500px;
+	height: 450px;
+	position: absolute;
+	overflow: hidden;
+	margin-left: 300px;
+	margin-top: 150px;
+}
